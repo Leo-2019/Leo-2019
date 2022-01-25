@@ -17,3 +17,5 @@
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Leo-2019&theme=minimal" />
 </div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Leo-2019/Leo-2019/main/assets/github-contribution-grid-snake.svg" ></div>
