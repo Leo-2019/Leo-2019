@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72205&width=470&lines=%E5%9C%A8%E8%BF%99%E4%B8%AA%E5%A8%B1%E4%B9%90%E8%87%B4%E6%AD%BB%E7%9A%84%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E4%BB%AC%E8%A6%81%E6%97%B6%E5%88%BB%E4%BF%9D%E6%8C%81%E6%B8%85%E9%86%92%EF%BC%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%E7%AE%80%E5%8D%95%E4%B8%8D%E5%85%88%E4%BA%8E%E5%A4%8D%E6%9D%82%EF%BC%8C%E8%80%8C%E6%98%AF%E5%9C%A8%E5%A4%8D%E6%9D%82%E4%B9%8B%E5%90%8E)](https://git.io/typing-svg)
 
 <a title="yuque" target="_blank" href="https://www.yuque.com"><img src="https://img.shields.io/badge/author-Leo_Li-brightgreen" ></a> ![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo_2019&left_color=green&right_color=red)
 
