@@ -15,9 +15,10 @@
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Leo-2019&show_icons=true&theme=radical" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-2019&layout=compact&langs_count=8" />
+<img ![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-2019&layout=compact&hide_border=true&langs_count=10)height="170px" src="https://github-readme-stats.vercel.app/api?username=Leo-2019&show_icons=true&theme=radical" /><span></span><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-2019&show_icons=true&count_private=true&theme=gotham" />
 <span>  </span>
 </div>
+
 
 
 <div align="center">
